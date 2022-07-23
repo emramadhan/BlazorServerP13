@@ -1,5 +1,6 @@
 # BlazorServerP13: How to Generate Identity Tables
 An easy guide to integrating Identity tables into the database of the existing project
+
 #Blazor #AspNetCore #Identity #Migration #Security
 
 https://lnkd.in/g2Uxurzs
